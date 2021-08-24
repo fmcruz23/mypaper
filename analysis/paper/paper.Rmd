@@ -1,5 +1,5 @@
 ---
-title: "Title Goes Here"
+title: "My paper"
 author:
   - Myfirstname Mylastname:
       email: fl@oneplace.edu
