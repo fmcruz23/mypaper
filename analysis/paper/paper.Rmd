@@ -1,11 +1,11 @@
 ---
 title: "My paper"
 author:
-  - Myfirstname Mylastname:
-      email: fl@oneplace.edu
+  - Felicia Mylastname: Cruz
+      email: feliciamcruz@bren.ucsb.edu
       institute: [UofO]
       correspondence: true
-  - Yourfirstname Yourlastname:
+  - Cruz Yourlastname: 
       email: fl@another.edu
       institute: [UofA]
       correspondence: false
